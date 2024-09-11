@@ -1,0 +1,3 @@
+Introduction to Java,John Doe,Programming,101,true
+The Great Gatsby,F. Scott Fitzgerald,Fiction,102,true
+Data Structures and Algorithms,Jane Smith,Programming,103,true
